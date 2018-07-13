@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlickrPhotos</string>
+    <string name="img_description">Description</string>
+    <string name="txt_loading">Loading…</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_description">Description:</string>
+</resources>
